@@ -4,14 +4,14 @@
 **Name:** Suvodip Mondal
 **Semester:** 5th Semester
 **Department:** Information Technology
+**Roll Number** 120002244058
 
 ## Experiments
 
-| Experiment   | Topic            | Status    |
-| ------------ | ---------------- | --------- |
-| Experiment 1 | NumPy and Pandas | Completed |
-| Experiment 2 |                  | Pending   |
-| Experiment 3 |                  | Pending   |
+| Experiment    Status      |
+| ------------              |  
+| Experiment 1   complete   |  
+| Experiment 2   complete   |  
+| Experiment 3   complete   |                 
 =======
-Experiment 1 done.
->>>>>>> 1939d9fd7d9c4e096f82a5671a8270b3783635fb
+
